@@ -1,0 +1,57 @@
+body {
+    background-color: #402528;
+   color: bisque;
+   font-family: 'Merriweather', serif;
+}
+
+.titulo {
+    color: #FF93A0;
+    text-align: center;
+    font-family: 'Kablammo', cursive;
+    font-size: 90px;
+} 
+
+.ajolotev{ 
+    width: 20%;
+    display: flex;
+    margin-left: 42%;
+}
+.menu {
+    margin-top: 0%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 100px;
+    border-radius: 20px;
+}
+.ajolotebonito{
+    width: 15%;
+    display: flex;
+    margin-left: 50%;
+
+}
+
+
+p{
+    color: #BF6F78;
+    text-align: justify; 
+    
+}
+
+a{
+    color: bisque;
+    text-decoration: none;
+    text
+}
+
+
+/*
+selector {
+    propiedad : valor
+ }
+ 
+ */
+ 
